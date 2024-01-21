@@ -1,0 +1,20 @@
+{
+    "todos": {
+        "task 1": {
+            "task": "task 1",
+            "category_name": "Task",
+            "added_on": "21-01-2024",
+            "due_date": "21-01-2024",
+            "is_completed": false,
+            "priority": 0
+        },
+        "start working on new project": {
+            "task": "start working on new project",
+            "category_name": "Project",
+            "added_on": "21-01-2024",
+            "due_date": "23-01-2024",
+            "is_completed": false,
+            "priority": 0
+        }
+    }
+}
